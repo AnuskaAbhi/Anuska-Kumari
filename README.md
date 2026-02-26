@@ -22,8 +22,6 @@ I am a **B.Tech Computer Science** graduate with a passion for building robust b
 - **Education:** B.Tech in Computer Science from PTU (7.64 CGPA)
 
   -----
-  ### My GitHub Stats
-  -![Anuska's GitHub Stats](https://github-readme-stats.vercel.app)
-  ------
+ 
   ### Connect with Me
   -[Email] (mail to: anuskak903@gmail.com
